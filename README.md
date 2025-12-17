@@ -36,7 +36,7 @@ Early detection of breast cancer can significantly improve treatment outcomes. T
 * **Regularization Parameter (C):** 1
 * **Gamma:** scale
 * **Feature Scaling:** StandardScaler
-(why SVM-it's is effective for medical datasets because it handles high-dimensional data well and creates a clear decision boundary between malignant and benign cases.In general term-Support Vector Machine finds the optimal hyperplane that best separates classes by maximizing the margin between them.)
+* **(why SVM-it's is effective for medical datasets because it handles high-dimensional data well and creates a clear decision boundary between malignant and benign cases.In general term -Support Vector Machine finds the optimal hyperplane that best separates classes by maximizing the margin between them.)
 ---
 
 ## Project Workflow
